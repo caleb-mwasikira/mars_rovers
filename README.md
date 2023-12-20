@@ -8,9 +8,12 @@ within a given dataset. The dataset contains information about the position coor
 each rover at specific time intervals during their mission on Mars.
 
 **Dataset Format:**
-Mars rovers dataset
 SHA256sum:
-00914983a3f89cde7b538f2d7cd54675022637324b6221f8d71c6714a16883ce  mars_rovers.csv
+1df6011df3613754ad0d0541a0f7f0de0617085d1f29939d20519749eb246799  rover_data_10.csv
+
+6d8b925396795743e5ecb6926faaafa6db3e0d6a7fcb62a83e3865fadb019964  rover_data_100.csv
+
+3bd8f485cb3178216e7ad2364702911122d177f5a02b048c7a4df3f0357c9c74  rover_data_1000.csv
 
 The dataset is structured as follows:
 - Rover ID: Unique identifier for each rover.
