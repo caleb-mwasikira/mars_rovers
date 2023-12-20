@@ -12,7 +12,7 @@ func main() {
 		err error
 	)
 
-	filename := "data/mars_rovers.csv"
+	filename := "data/rover_data_10.csv"
 	landingSites, err := nasa.ReadLandingSitesFromFile(filename)
 	if err != nil {
 		log.Fatal(err)
